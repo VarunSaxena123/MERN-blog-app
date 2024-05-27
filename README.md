@@ -1,4 +1,4 @@
-# mern-stack-blog-app
+# MERN-stack-blog-app
 complete mern stack blog application source code 2023
 
 # please check branches more code coming soon !
